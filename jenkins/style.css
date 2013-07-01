@@ -1,5 +1,8 @@
-#top-panel {
-  background: url(http://www.purpose.com/wp-content/themes/Purpose/images/purpose_logo.png) no-repeat 5px 5px rgb(0, 163, 210);
-  background-size: 70px;
-  height: 42px;
-}
+  #top-panel td > a {
+    background: url("http://xrono.isotope11.com/system/site_logos/1/original/isotope_logo.png?1330143115") 0 0 no-repeat;
+    display: block;
+    width: 130px;
+    height: 40px;
+    margin: 10px 0 10px 10px; }
+    #top-panel td > a img {
+      display: none; }
