@@ -1,3 +1,6 @@
 [submodule "child"]
 	path = child
 	url = git@github.com:nicopaez/git-poc-child.git
+[submodule "git-poc-child-2"]
+	path = git-poc-child-2
+	url = git@github.com:nicopaez/git-poc-child-2.git
